@@ -29,7 +29,7 @@ Random Forest Classifier
 7. Model Evaluation
 
 ## Results
-Achieved an accuracy of XX%.
+Achieved an accuracy of 96%.
 
 ## Dataset
 Iris Dataset
